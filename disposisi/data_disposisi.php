@@ -9,7 +9,7 @@ check_login();
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Quixlab - Bootstrap Admin Dashboard Template by Themefisher.com</title>
+    <title>Data Disposisi</title>
     <!-- Favicon icon -->
     <link rel="icon" type="../assets/image/png" sizes="16x16" href="assets/images/favicon.png">
     <!-- Pignose Calender -->
@@ -49,8 +49,8 @@ check_login();
             <div class="row page-titles mx-0">
                 <div class="col p-md-0">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="javascript:void(0)">Teknisi</a></li>
-                        <li class="breadcrumb-item active"><a href="javascript:void(0)">Data Teknisi</a></li>
+                        <li class="breadcrumb-item"><a href="javascript:void(0)">Disposisi</a></li>
+                        <li class="breadcrumb-item active"><a href="javascript:void(0)">Data Disposisi</a></li>
                     </ol>
                 </div>
             </div>

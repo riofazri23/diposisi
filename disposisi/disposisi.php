@@ -81,8 +81,8 @@ if (isset($_POST['submit'])) {
             <div class="row page-titles mx-0">
                 <div class="col p-md-0">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="javascript:void(0)">Teknisi</a></li>
-                        <li class="breadcrumb-item active"><a href="javascript:void(0)">Input Teknisi</a></li>
+                        <li class="breadcrumb-item"><a href="javascript:void(0)">Disposisi</a></li>
+                        <li class="breadcrumb-item active"><a href="javascript:void(0)">Input Ticket</a></li>
                     </ol>
                 </div>
             </div>
